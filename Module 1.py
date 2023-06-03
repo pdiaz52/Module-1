@@ -1,0 +1,5 @@
+print("What is your name: Paloma")
+print("Please give me your first number: 4")
+print("Please give me your second number: 8")
+print("Hello, Paloma!")
+print("The result of 4 x 8 is 32")
